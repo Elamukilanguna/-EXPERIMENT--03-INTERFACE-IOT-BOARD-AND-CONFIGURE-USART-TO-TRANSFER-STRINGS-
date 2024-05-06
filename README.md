@@ -2,9 +2,9 @@
 
 ###  DATE: 26/02/2024
 
-###  NAME: CHANDRU.P
-###  ROLL NO :21222110007
-###  DEPARTMENT: CSE(IOT)
+###  NAME: ELAMUKILAN.G
+###  ROLL NO :212223040045
+###  DEPARTMENT: CSE
 
 # EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
